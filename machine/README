@@ -1,0 +1,4 @@
+Note, when changing the machine_def.yaml file you will need to run the
+following command:
+
+faa update_machine_def

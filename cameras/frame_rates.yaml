@@ -1,0 +1,8 @@
+assignment: 30 
+zoom_calibration: 30 
+camera_calibration: 3.75 
+homography_calibration: 30
+transform_2d_calibration: 30 
+tracking_2d: 30 
+default: 30 
+camera_driver: 60 

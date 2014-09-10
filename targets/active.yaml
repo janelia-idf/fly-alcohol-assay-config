@@ -1,0 +1,5 @@
+port: /dev/active-target
+baudrate: 9600
+size: 7x7
+square: 0.0635
+max_power: 50

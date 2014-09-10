@@ -1,0 +1,14 @@
+<package>
+  <description brief="faa_config">
+
+     Fly alcohol assay configuration package.
+
+  </description>
+  <author>Peter Polidoro</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>https://bitbucket.org/peterpolidoro/faa_config</url>
+
+</package>
+
+
