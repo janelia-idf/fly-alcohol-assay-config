@@ -3,23 +3,23 @@
 
 calibration_line_thickness: 2
 gate_0_1_dist_mm: 100.8
-gate_height: 30
+gate_height: 27
 gate_y_offsets:
-- 849
-- 214
-- 89
+- 843
+- 204
+- 57
 image_height: 960
 image_width: 1280
 min_ecc: 1.5
 morph_kernel_size: 5
 threshold: 20
-tunnel_height: 890
-tunnel_width: 42
+tunnel_height: 900
+tunnel_width: 47
 tunnel_x_offsets:
-- 65
-- 286
-- 505
-- 726
-- 947
+- 70
+- 289
+- 511
+- 728
+- 950
 - 1167
-tunnel_y_offset: 68
+tunnel_y_offset: 44
